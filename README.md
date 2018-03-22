@@ -14,7 +14,7 @@ Please note:
 classes will be added to this dataset soon.
 2. Each text file inside the folders of these classes is a sample.  A
 sample data is provided in 4 columns corresponding to X, Y, Z and
-Intensity, separated by comma.
+Intensity, separated by single space.
 3. This dataset is for research purpose only.  For any commercial use
 please contact Dr. Bharat Lohani at blohani@iitk.ac.in
 4. When using this dataset please refer to this as:
